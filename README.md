@@ -19,3 +19,10 @@ Multiple Versions of php
 ==============================
 
 https://www.centlinux.com/2021/03/install-multiple-php-versions-on-rhel-8.html
+
+
+https://stackoverflow.com/questions/11223235/mysql-root-access-from-all-hosts
+
+https://github.com/lopezator/docker-lamp-php-5
+
+https://github.com/CodeBuffet/lamp-with-php5
